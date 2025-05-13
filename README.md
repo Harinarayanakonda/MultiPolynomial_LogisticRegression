@@ -1,0 +1,2 @@
+# MultiPolynomial_LogisticRegression
+Multi Polynomial Logistic Regression
